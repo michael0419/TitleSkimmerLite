@@ -47,9 +47,9 @@ def main():
             Second_nb=results['Category'][1],
             Third_nb=results['Category'][2],
 
-            percent_first_nb=results['weight'][0],
-            percent_second_nb=results['weight'][1],
-            percent_third_nb=results['weight'][2],
+            percent_first_nb=float('%.3f' %results['weight'][0]),
+            percent_second_nb=float('%.3f' %results['weight'][1]),
+            percent_third_nb=float('%.3f' %results['weight'][2]),
 
             mnbayes = "True",
             result = "True",
