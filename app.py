@@ -55,6 +55,10 @@ def main():
             result = "True",
         )
 
+@app.route('/about_me/')
+def about_me():
+    return flask.render_template('about_me.html')
+
 
 if __name__ == '__main__':
     app.run(debug=True)
