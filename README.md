@@ -6,6 +6,6 @@ It only features 1 model (Multinomial Bayes) instead of the 3 in the full projec
 
 ## Update: Heroku is no longer providing the same free hosting services so the url no longer works
 
-[Try this project on Heroku!](https://title-skimmer-lite.herokuapp.com/)
+[Try this project on Heroku!](https://github.com/michael0419/TitleSkimmerLite)
 
 ## Check out the full project [here!](https://github.com/michael0419/TitleSkimmer)
